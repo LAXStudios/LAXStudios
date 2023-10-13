@@ -1,3 +1,3 @@
 <div align="center">
-<h3>laxstudios</h3>
+<h3><b>laxstudios</b></h3>
 </div>
