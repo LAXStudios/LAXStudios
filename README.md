@@ -1,3 +1,3 @@
-<div align="center" background="#ffffff">
+<div align="center" color="#ffffff">
 Hi
 </div>
